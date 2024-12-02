@@ -5,9 +5,9 @@ stages:
     deps:
     - path: .\data\raw\zipped
       hash: md5
-      md5: 2ac9e57fc0bc2d2a1a610a695529d479.dir
-      size: 87295035
-      nfiles: 2
+      md5: 6ccad8d8d2296888521ca35423442223.dir
+      size: 87295253
+      nfiles: 5
     - path: .\src\data\extract_dataset.py
       hash: md5
       md5: e13ce767752277added5382c0f74dfe9
